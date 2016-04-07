@@ -46,7 +46,7 @@ public class SwingControlDemo {
    private void showEventDemo(){
       headerLabel.setText("Control in action: Button");
 
-      JButton okButton = new JButton("OK");
+      JButton okButton     = new JButton("OK");
       JButton submitButton = new JButton("Submit");
       JButton cancelButton = new JButton("Cancel");
 
